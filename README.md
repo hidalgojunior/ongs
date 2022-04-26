@@ -4,5 +4,5 @@
 
 ### Professor responsável: [Arnaldo Martins Hidalgo Junior](mailto:arnaldo@hidalgojunior.com.br)
 
-O presente projeto será desenvolvido em Bootstrap com utilização de PHP no desenvolvimento de suas páginas e de MySQL como o banco de dados de trabalho.
+O presente projeto será desenvolvido em MaterializeCSS com utilização de PHP no desenvolvimento de suas páginas e de MySQL como o banco de dados de trabalho.
 
