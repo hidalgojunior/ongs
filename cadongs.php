@@ -67,7 +67,7 @@
      </div>
         <div class="row">
             <div class="col s12 m4">
-                <label for="nomeOng">Nome da ONG</label>
+                <label for="nomeOng">Nome da ONG </label>
                 <input type="text" name="nomeOng" id="nomeOng" />
             </div>
         </div>
