@@ -21,9 +21,9 @@
     </div>
     <div class="row">
         <div class="col s10 offset-s1">
-            <p class="flow-text center"> Bem vindo ao app INFOONGs</p>
+            <p class="flow-text center"> Bem vindo ao app INFOONGS</p>
             <p class="flow-text center">Desenvolvido para ajudar as ongs e projetos sociais da cidade de Marília - SP</p>
-            <p class="center"><a class="waves-effect waves-light btn" href="index2.php">Clique aqui</a></p>
+            <p class="center"><a class="waves-effect waves-light btn" href="index2.php">Clique Aqui</a></p>
         </div>
     </div>
 
