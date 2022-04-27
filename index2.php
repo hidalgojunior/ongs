@@ -39,14 +39,56 @@
 </div>
 <div class="container">
     <div style="min-height: 55vh">
-        <div class="row center">
-            <?php for ($i = 1; $i <= 10; $i++){
-                echo '
-            <div class="col s1 center"> 
-                <img src="https://picsum.photos/50" class="center">
+        <div class="row center  valign-wrapper">
+            <div class="col s1 center">
+                <img src="icones/ambiental.jpeg" class="center responsive-img" width="100" height="100">
+                <p class="center">Ambiental</p>
             </div>
-            ';
-            } ?>
+            <div class="col s1 center">
+                <img src="icones/animais.jpeg" class="center responsive-img" width="100" height="100">
+                <p class="center">Animais</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/asilos.jpeg" class="center  responsive-img" width="100" height="100">
+                <p class="center">Asilos</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/criancas.jpeg" class="center responsive-img" width="100" height="100">
+                <p class="center">Crianças</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/deficientes.jpeg" class="center responsive-img" width="100" height="100">
+                <p class="center">Deficientes</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/depquim.jpeg" class="center  responsive-img" width="100" height="100">
+                <p class="center">Dependencia Quimica</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/doencas.jpeg" class="center  responsive-img" width="100" height="100">
+                <p class="center">Doenças Crônicas</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/moradores.jpeg" class="center responsive-img" width="100" height="100">
+                <p class="center">Moradores de Rua</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/outros.jpeg" class="center  responsive-img" width="100" height="100">
+                <p class="center">Outros</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/pobreza.jpeg" class="center responsive-img" width="100" height="100">
+                <p class="center">Pobreza</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/social.jpeg" class="center  responsive-img" width="100" height="100">
+                <p class="center">Ação Social</p>
+            </div>
+            <div class="col s1 center">
+                <img src="icones/violencia.jpeg" class="center responsive-img" width="100" height="100">
+                <p class="center">Violencia</p>
+            </div>
+
         </div>
     </div>
 </div>
